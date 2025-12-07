@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 13, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/SNEHA%20PANDEY/ngo2/app/page.tsx"],"sourcesContent":["/*import { DonationDashboard } from \"@/components/donation-dashboard\"\r\n\r\nexport default function Home() {\r\n  return <DonationDashboard />\r\n}*/\r\n"],"names":[],"mappings":"AAAA;;;;CAIC,GAJD"}},
-    {"offset": {"line": 17, "column": 4}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}
